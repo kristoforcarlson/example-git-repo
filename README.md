@@ -8,3 +8,4 @@ Added this second line.
 
 Added this third line.
 
+This README now has :dog: powers.
