@@ -5,3 +5,5 @@ This is a line that I may merge with other branches.
 This README now has :dog: powers.
 
 Added :cat: powers.
+
+I wonder if you can have emoji in commit comments?
