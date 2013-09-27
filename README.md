@@ -7,3 +7,5 @@ This README now has :dog: powers.
 Added :cat: powers.
 
 I wonder if you can have emoji in commit comments?
+
+Tested out stash, it seems to work fine.
