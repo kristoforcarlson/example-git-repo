@@ -1,6 +1,3 @@
 This is a just a sample git repo to play with.
-sadjksad
 
-Added this single line
-sadkl
-hello kris..
+This is a line that I may merge with other branches.
